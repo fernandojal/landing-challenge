@@ -1,0 +1,23 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 221px 0;
+}
+
+.container-banner{
+  width: 900px;
+  margin: auto;
+}
+
+.container-banner h1{
+  color: white;
+  text-shadow: 2px 2px black;
+}
+.container-banner p{
+  color:lightgray;
+  padding-bottom: 20px;
+  text-shadow: 2px 2px black;
+}
+.container-banner a{
+  text-shadow: 1px 1px black;
+}
